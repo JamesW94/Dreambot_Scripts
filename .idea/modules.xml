@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstTest.iml" filepath="$PROJECT_DIR$/FirstTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFisher/SimpleFisher.iml" filepath="$PROJECT_DIR$/SimpleFisher/SimpleFisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFisherv2/SimpleFisherv2.iml" filepath="$PROJECT_DIR$/SimpleFisherv2/SimpleFisherv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+    </modules>
+  </component>
+</project>
